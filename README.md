@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Jess!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Jess! She / Her </h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-lima-11811838/)
 [![Protonmail](https://img.shields.io/badge/-ProtonMail-blueviolet?style=flat&logo=protonmail&logoColor=white)](mailto:jessica.l.fileto@protonmail.com)
