@@ -37,3 +37,6 @@ _A software developer who loves cat! 🐱_
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Jess wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jtlimo)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Snake animation](https://github.com/jtlimo/jtlimo/blob/output/github-contribution-grid-snake.svg)
+
